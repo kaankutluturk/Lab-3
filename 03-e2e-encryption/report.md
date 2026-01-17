@@ -9,5 +9,3 @@ Provider used:
 3.
 
 ## Why E2EE is better than TLS-only email
-
-(Write your explanation here.)
