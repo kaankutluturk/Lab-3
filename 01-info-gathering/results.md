@@ -14,7 +14,3 @@ theHarvester -d beuth-hochschule.de -b all -l 200 -f beuth-hochschule
 - Emails found: 
 - Hosts/subdomains found: 
 - Notes:
-
-## Sample findings (redact if needed)
-
-- 
