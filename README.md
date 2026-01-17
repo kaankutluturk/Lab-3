@@ -1,6 +1,6 @@
 # Lab III
 
-This repo organizes the "Lab III" handouts into a clean, repeatable structure and starts the work for each lab part (write-ups + commands + artifacts).
+This repo organizes the "Lab III" handouts into a clean, repeatable structure and starts the work for each lab part.
 
 ## Contents
 
