@@ -31,7 +31,7 @@
 - Mandatory code signing and tighter platform controls
 - Reverse engineering still possible, but IPA/tooling + encryption/signing differ
 
-## 5) Next steps (if you have a RE tool)
+## 5) Next steps
 
 - Decompile with JADX: locate `MainActivity`, confirm what URL is loaded and what WebView settings are used.
 - Dynamic analysis: run in emulator, capture traffic with a proxy, verify TLS pinning (if any), see what endpoints are contacted.
