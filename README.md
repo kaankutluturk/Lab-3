@@ -1,4 +1,4 @@
-# Lab III (formatted as a GitHub repo)
+# Lab III
 
 This repo organizes the "Lab III" handouts into a clean, repeatable structure and starts the work for each lab part (write-ups + commands + artifacts).
 
@@ -19,5 +19,3 @@ Each lab folder contains a `README.md` with:
 2) steps to reproduce the analysis,
 3) findings / write-up (where already possible),
 4) TODOs where the work requires an external environment (e.g., Kali, SSL Labs UI).
-
-> Note: this repo is designed to be safe to share publicly (no credentials). If you add real harvested emails/names, consider storing them in a private repo.
