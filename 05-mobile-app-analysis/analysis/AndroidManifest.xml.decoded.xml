@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example2.tak.myprototype" platformBuildVersionCode="26" platformBuildVersionName="8.0.0">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="26">
+  </uses-sdk>
+  <uses-permission android:name="android.permission.INTERNET">
+  </uses-permission>
+  <meta-data android:name="android.support.VERSION" android:value="26.0.0-alpha1">
+  </meta-data>
+  <application android:theme="@0x7f0800a3" android:label="@0x7f060021" android:icon="@0x7f030002" android:allowBackup="true" android:supportsRtl="true" android:roundIcon="@0x7f030001">
+    <activity android:name="com.example2.tak.myprototype.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN">
+        </action>
+        <category android:name="android.intent.category.LAUNCHER">
+        </category>
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>
