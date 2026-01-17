@@ -34,5 +34,5 @@
 ## 5) Next steps
 
 - Decompile with JADX: locate `MainActivity`, confirm what URL is loaded and what WebView settings are used.
-- Dynamic analysis: run in emulator, capture traffic with a proxy, verify TLS pinning (if any), see what endpoints are contacted.
+- Dynamic analysis: run in emulator, capture traffic with a proxy, verify TLS pinning, see what endpoints are contacted.
 
