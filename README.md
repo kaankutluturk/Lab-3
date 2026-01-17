@@ -17,5 +17,5 @@ This repo organizes the "Lab III" handouts into a clean, repeatable structure an
 Each lab folder contains a `README.md` with:
 1) what the handout asks for,
 2) steps to reproduce the analysis,
-3) findings / write-up (where already possible),
-4) TODOs where the work requires an external environment (e.g., Kali, SSL Labs UI).
+3) findings / write-up,
+4) TODOs 
