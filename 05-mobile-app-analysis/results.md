@@ -23,7 +23,7 @@ Use the Excel checklist in `assets/original/Mobile App Analysis/Mobile_App_Secur
 - MSTG-CODE: __
 - MSTG-RESILIENCE: __
 
-## Recommended next steps (if you have tools)
+## Recommended next steps
 
 - Decompile with `jadx-gui` or `jadx -d out app-release.apk`
 - Inspect WebView settings: JavaScript enabled? file access? mixed content? navigation restrictions?
